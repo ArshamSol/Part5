@@ -1,0 +1,9 @@
+put http://localhost:3003/api/blogs/5a422a851b54a676234d17f7
+content-type: application/json
+
+{
+  "title": "React patterns",
+  "author": "Arsham",
+  "url": "https://fullstackopen.com/en/part4/",
+  "likes": 211
+}
